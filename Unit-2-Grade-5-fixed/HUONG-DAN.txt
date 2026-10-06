@@ -1,0 +1,5 @@
+Mo file Mo-ngay.html bang Chrome/Safari de dung ngay.
+Thu muc source chua ma nguon da sua va workflow GitHub Pages.
+De cap nhat repo: dua source len nhanh main; Settings > Pages > Source > GitHub Actions.
+Thu muc website chua ban web da build.
+Da kiem tra npm ci, TypeScript va build. Chua kiem tra tuong tac trong trinh duyet.
